@@ -1,0 +1,16 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "Google Photo concept app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Butler <bill@butler.net>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "flickrapi": "^0.6.0",
+    "interact.js": "^1.2.6"
+  }
+}
