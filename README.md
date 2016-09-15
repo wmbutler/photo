@@ -11,9 +11,9 @@ Long term, I can see this API moving to augmented reality so people could hand p
 # installation
 
 ```
-git@github.com:wmbutler/photo.git
+git clone git@github.com:wmbutler/photo.git
 cd photo
-npm i
+npm install
 node server.js
 http://localhost:3000/dropzone.html
 ```
