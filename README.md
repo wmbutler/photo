@@ -15,5 +15,6 @@ git clone git@github.com:wmbutler/photo.git
 cd photo
 npm install
 node server.js
-http://localhost:3000/dropzone.html
 ```
+
+Point browser to: http://localhost:3000/dropzones.html
