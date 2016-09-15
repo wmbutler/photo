@@ -20,3 +20,5 @@ node server.js
 ```
 
 Point browser to: <a target="_blank" href="http://localhost:3000/dropzones.html">http://localhost:3000/dropzones.html</a>
+
+![sample16dc8.png](https://www.steemimg.com/images/2016/09/15/sample16dc8.png)
