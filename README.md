@@ -17,4 +17,4 @@ npm install
 node server.js
 ```
 
-Point browser to: <a href="http://localhost:3000/dropzones.html">http://localhost:3000/dropzone.html</a>
+Point browser to: <a href="http://localhost:3000/dropzones.html">http://localhost:3000/dropzones.html</a>
