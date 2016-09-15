@@ -10,6 +10,8 @@ Long term, I can see this API moving to augmented reality so people could hand p
 
 # installation
 
+This project uses nodejs so you must have that and mpn installed.
+
 ```
 git clone git@github.com:wmbutler/photo.git
 cd photo
